@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - decwest
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - KeioRoboticsAssociation/nhk2021_ilias
+  - Decwest/navgoal_webgui
+  - Decwest/robot_simulator_template
+  - Decwest/introduction-to-ros
