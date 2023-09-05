@@ -7,79 +7,31 @@ nav: true
 nav_order: 3
 ---
 
-<!-- ## GitHub users
-
-{% if site.data.repositories.github_users %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.html username=user %}
-  {% endfor %}
-</div>
-
---- -->
-
-<!-- {% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-  {% if site.data.repositories.github_users.size > 1 %}
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.html username=user %}
-  </div>
-
-  ---
-
-{% endfor %}
-{% endif %}
-{% endif %} -->
-
 ## [navgoal_webgui](https://github.com/Decwest/navgoal_webgui)
-<table>
-<tr>
-<td>
-<img src='../assets/img/codes/simulator.gif' width="400" >
-</td>
-<td>
-こちらが右側の説明書きの部分です。詳細な説明や、この画像に関連する情報などを記載してください。
-</td>
-</tr>
-</table>
+
+A WebGUI for publishing 2D Nav Goal (geometry_msgs::PoseStamped). 
+
+It also supports touch screens.
+
+<img src='../assets/img/codes/navgoal_webgui.gif' width="400" >
+
 <br/>
 
-## [robot_simulator_template](https://github.com/Decwest/navgoal_webgui)
-<table>
-<tr>
-<td>
-<img src='../assets/img/codes/simulator.gif' width="400">
-</td>
-<td>
-こちらが右側の説明書きの部分です。詳細な説明や、この画像に関連する情報などを記載してください。
-</td>
-</tr>
-</table>
+## [robot_simulator_template](https://github.com/Decwest/robot_simulator_template)
+
+This repository contains some urdfs of robot components for robot simulation in gazebo, such as 2D/3D LiDAR, RGBD camera and mobile base.
+
+<img src='../assets/img/codes/simulator_template.png' width="400">
+
 <br/>
+
 
 ## [nhk2021_ilias](https://github.com/KeioRoboticsAssociation/nhk2021_ilias)
-<table>
-<tr>
-<td>
+
+Codes and simulator for NHK Robocon 2021. 
+
+I created a urdf model of a 4 wheel steering robot, using the method to rotate joints on Gazebo by ROS Topic. I also created a precise and rotatable field model by converting a 3D CAD field to sdf. 
+
+This repository may provide expertise in simulator construction.
+
 <img src='../assets/img/codes/simulator.gif' width="400">
-</td>
-<td>
-こちらが右側の説明書きの部分です。詳細な説明や、この画像に関連する情報などを記載してください。
-</td>
-</tr>
-</table>
-
-<!-- ## GitHub Repositories
-
-{% if site.data.repositories.github_repos %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.html repository=repo %}
-    
-
-  {% endfor %}
-</div>
-{% endif %} -->
-
