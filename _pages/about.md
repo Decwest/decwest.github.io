@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student | 👪x🤖
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: fumiya-onishi.JPG
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href='http://www.yt.sd.keio.ac.jp/'>Takahashi Lab. Keio University</a></p>
+    <p>3-14-1, Hiyoshi</p>
+    <p>Kohoku-ku, Yokohama, Japan</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
