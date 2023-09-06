@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi everyone! I am a Ph.D. candidate under the supervision of Prof. Masaki Takahashi in the Department of System Design Engineering at Keio Univ.
 
-My interests are <b><i>mobile robot's motion generation</i></b> and <b><i>consideration</i></b>.
+My interests are <b><i>mobile robot's motion</i></b> and <b><i>considerate behavior</i></b>.
 
 By pursuing <b>both human-caring and human-understandable robot behavior</b>, I aim to realize <b>a mobile robot that people and robots understand and considerate for each other</b>, and that <b>people can use safely and trust</b>.
 
