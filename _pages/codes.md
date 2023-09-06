@@ -2,7 +2,7 @@
 layout: page
 permalink: /codes/
 title: codes
-description: This page introduces my popular repositories.
+description: Coding (especially robot programming) and sharing my work publicly is a hobby I really love.💻 <br/> This page introduces some of my popular repositories.
 nav: true
 nav_order: 3
 ---

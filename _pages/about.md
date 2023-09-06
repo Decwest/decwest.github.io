@@ -19,10 +19,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Changed by decwest. We are NewJeans.
+Hi everyone! I am a Ph.D. candidate under the supervision of Prof. Masaki Takahashi in the Department of System Design Engineering at Keio Univ.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My interests are <b><i>mobile robot's motion generation</i></b> and <b><i>consideration</i></b>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+By pursuing <b>both human-caring and human-understandable robot behavior</b>, I aim to realize <b>a mobile robot that people and robots understand and considerate for each other</b>, and that <b>people can use safely and trust</b>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Therefore, I am conducting research to generate considerate motions by capturing human preferences and implicit rules from human activities, and mobile robot motions that make the robot's intentions and future motions predictable and legible to humans.
+
+Furthermore, by visiting actual sites and understanding their needs, I strive to conduct R&D that responds to the needs of the real world. <b>The ultimate goal of my research is to develop robots that people want to use and bring to them</b>. Furthermore, I have a keen interest in <b>open-source initiatives</b> and aim to proactively release any code that can be made public.
+
+My ultimate goal is to serve happiness to everyone through robotics!
+
+
+<a href="ja" class="fancy-button">日本語のページ</a>
+
+<br/>
