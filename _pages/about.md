@@ -27,7 +27,7 @@ By pursuing <b>both human-caring and human-understandable robot behavior</b>, I 
 
 Therefore, I am conducting research to generate considerate motions by capturing human preferences and implicit rules from human activities, and mobile robot motions that make the robot's intentions and future motions predictable and legible to humans.
 
-Furthermore, by visiting actual sites and understanding their needs, I strive to conduct R&D that responds to the needs of the real world. <b>The ultimate goal of my research is to develop robots that people want to use and bring to them</b>. Furthermore, I have a keen interest in <b>open-source initiatives</b> and aim to proactively release any code that can be made public.
+Furthermore, by visiting actual sites and understanding their needs, I strive to conduct R&D that responds to the needs of the real world. <b>The ultimate goal of my research is to develop and deliver robots that people want to use</b>. Furthermore, I have a keen interest in <b>open-source initiatives</b> and aim to proactively release any code that can be made public.
 
 My ultimate goal is to serve happiness to everyone through robotics!
 
