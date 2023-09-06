@@ -109,6 +109,7 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://users.wpi.edu/~lfichera/" target="_blank">★</a>
 <a href="https://anmspro.github.io/" target="_blank">★</a>
 <a href="https://berlyne.net/" target="_blank">★</a>
+<a href="https://decwest.github.io/" target="_blank">★</a>
 </td>
 </tr>
 <tr>
@@ -155,10 +156,11 @@ Medical Robotics Junior Faculty Forum (ISMR: <a href="https://junior-forum-ismr.
 
 ## Table Of Contents
 
-  * [User community](#user-community)
-  * [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
-  * [Table Of Contents](#table-of-contents)
-  * [Getting started](#getting-started)
+- [al-folio](#al-folio)
+  - [User community](#user-community)
+  - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
+  - [Table Of Contents](#table-of-contents)
+  - [Getting started](#getting-started)
     - [Installation](#installation)
       - [Local setup using Docker (Recommended)](#local-setup-using-docker-recommended)
       - [Local Setup (Legacy)](#local-setup-legacy)
