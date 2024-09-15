@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am Fumiya Ohnishi, a first-year PhD student and Assistant Professor (Fixed-term, Research Encourgement) at the Graduate School of Science and Technology, Keio University.
 
-I am researching technologies for generating safe motion of autonomous mobile robots in environments where humans coexist, such as hospitals.
+I am researching technologies for generating safe movement of autonomous mobile robots in environments where humans coexist, such as hospitals.
 
 Keywords: robot navigation, human-robot interaction, perceived safety
 
