@@ -11,23 +11,33 @@
     #   #     contents:
     #   #       - Sub-description 1.
     #   #       - Sub-description 2.
-    - title: MSc - System design engineering
-      institution: Keio University, Japan
-      year: 2022 - present
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-    - title: BSc - System design engineering
-      institution: Keio University, Japan
-      year: 2018 - 2022
-      # description:
-      #   - Thesis: Goal Inference via Corrective Path Demonstrations for Human-robot Collaboration
-        # - Description 2.
+  - title: PhD - Engineering
+    institution: "The School of Science for Open and Environmental Systems, Graduate School of Science and Technology, Keio University, Japan. Supervisor: <a href=\"https://www.st.keio.ac.jp/en/tprofile/sd/takahashi.html\" target=\"_blank\">Masaki Takahashi</a>"
+    year: 2024 - now
+    # description:
+    #   - Description 1.
+  - title: MSc - Engineering
+    institution: "The School of Science for Open and Environmental Systems, Graduate School of Science and Technology, Keio University, Japan. Supervisor: <a href=\"https://www.st.keio.ac.jp/en/tprofile/sd/takahashi.html\" target=\"_blank\">Masaki Takahashi</a>"
+    year: 2022 - 2024
+    description:
+      - "Thesis: 施設構造に沿ったレーンに基づく歩行者・観察者にとって安心なロボットナビゲーション (Facility-Structured Lane-Based Robot Safe Navigation for Pedestrian and Observer)"
+  - title: BSc - Engineering
+    institution: "Department of System Design Engineering, Faculty of Science and Technology, Keio University, Japan. Supervisor: <a href=\"https://www.st.keio.ac.jp/en/tprofile/sd/takahashi.html\" target=\"_blank\">Masaki Takahashi</a>"
+    year: 2018 - 2022
+    description:
+      - "Thesis: ユーザの修正経路教示に基づく協働搬送ロボットの目的地推論 (Goal Inference via Corrective Path Demonstrations for Collaborative Delivery Robots)"
+      - "Graduated at the top of the department"
+
 
 - title: Working Experiences
   type: time_table
   contents:
-    - title: Student Engineer
+    - title: 助教（有期・研究奨励）| Assistant Professor (Fixed-term/Research Encouragement)
+      institution: Graduate School of Science and Technology, Keio University, Japan
+      year: Apr 2024 – now
+      description:
+        - Duties include cooperation with public relations activities, as well as being in charge of supervising on-campus examinations and entrance examinations.
+    - title: Part-time Engineer
       institution: <a href="https://www.softroid.jp/">SoftRoid.Inc</a>
       year: Oct 2020 – now
       description:
@@ -59,7 +69,7 @@
   type: time_table
   contents:
     - title: Humonii
-      year: Apr 2023 – now
+      year: Apr 2023 – Sep 2024
       items: 
         - I developed a shared control algorithm of semi-autonomous electric wheelchair “Feeling”.
         - <a href="https://www.humonii.com/">Homepage</a>. <a href="https://youtu.be/-udQ3dNQ-l8?si=hS4k8vHkAoBS7gFL">Youtube</a>
@@ -71,7 +81,7 @@
     - title: NHK Robocon
       year: Oct 2019 – Aug 2021
       items: 
-        - <u>As a leader of software division</u>, I designed and developed a hole software architecture with teammates, including navigation and task execution modules of mobile robot. In addition, I developed a robot simulator by Gazebo since we could not test it's software by real robot due to COVID-19 lockdown.
+        - <u>As a leader of software team</u>, I designed and developed a hole software architecture with teammates, including navigation and task execution modules of mobile robot. In addition, I developed a robot simulator by Gazebo since we could not test it's software by real robot due to COVID-19 lockdown.
         - <a href="https://github.com/KeioRoboticsAssociation/nhk2021_ilias">Code(2021)</a>, <a href="https://keiorogiken.wordpress.com/2020/09/27/nhk%e5%ad%a6%e7%94%9f%e3%83%ad%e3%83%9c%e3%82%b3%e3%83%b32020%e3%81%a7%e6%8a%95%e7%a5%a85%e4%bd%8d%e3%82%92%e9%a0%82%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/">Report(2020)</a>
     - title: AWS Robot Delivery Challenge
       year: Mar 2020 – Sep 2020
@@ -84,29 +94,32 @@
   contents:
     - title: Software
       items: 
-        - C/C++, Python, Javascript, ROS, Gazebo, Docker, AWS, WSL2
+        - <b>C/C++</b>, <b>Python</b>, Javascript, <b>ROS</b>, Gazebo, Docker, AWS, WSL2, etc...
     - title: Hardware
       items:
-        - Mbed, Arduino, Jetson, 3D CAD, Soldering
+        - Mbed, Arduino, Jetson, 3D CAD, Soldering, etc...
 
 - title: Awards
   type: nested_list
   contents:
     - title: Awards
       items: 
-        - <b>Excellent Student Award</b>, The Robotics Society of Japan, Feb 2022.
-        - <b>Keio Engineering Foundation Award（慶応工学会賞）</b>, Keio Engineering Foundation, Mar 2022. (the best honors student in the department)
-        - <b>Hatakeyama Award（畠山賞）</b>, The Japan Society of Mechanical Engineers, Mar 2022.
-        - <b>Excellent Bachelor's Thesis Presentation Arawd（卒業研究優秀発表賞）</b>, Department of System Design Engineering, Keio University, Mar 2022.
-        - <b>Education Contribution Award（教育貢献賞）</b>, Keio University AI Consortium（慶應義塾大学AI・高度プログラミングコンソーシアム）, Mar 2022.
+        - <b>ポスター賞 | Excellent Poster Award</b>, Keio University AI Consortium（慶應義塾大学AI・高度プログラミングコンソーシアム）, Mar. 2023.
+        - <b>優秀学生賞 | Excellent Student Award</b>, The Robotics Society of Japan, Feb. 2022.
+        - <b>慶応工学会賞 | Keio Engineering Foundation Award</b>, Keio Engineering Foundation, Mar. 2022. (the best honors student in the department)
+        - <b>畠山賞 | Hatakeyama Award</b>, The Japan Society of Mechanical Engineers, Mar. 2022.
+        - <b>卒業研究優秀発表賞 | Excellent Bachelor's Thesis Presentation Award</b>, Department of System Design Engineering, Keio University, Mar. 2022.
+        - <b>教育貢献賞 | Education Contribution Award</b>, Keio University AI Consortium（慶應義塾大学AI・高度プログラミングコンソーシアム）, Mar. 2022.
     - title: Scholarships
       items:
+        - <b>博士課程学生研究支援プログラム（潮田記念基金）</b>, Apr. 2024
+        - <b>研究のすゝめ奨学金</b>, Apr. 2024
         - <b>111年三田会記念大学奨学基金</b>, Sep 2021 (Five of the students from all faculties of Keio University were accepted.)
     - title: Robot competitions
       items:
-        - <b>2nd place</b> in semi-final and <b>4th place</b> in final, AWS Robot Delivery Challenge, 2021 (Out of 118 teams)
-        - <b>5th place</b>, Team Ilias from Keio University, NHK Robocon, 2020.
-        - <b>1st place</b>, Robocup Junior Chiba Line Trace Robot Challenge, 2013.
+        - <b>2nd place</b> in semi-final and <b>4th place</b> in final, <b>AWS Robot Delivery Challenge</b>, 2021 (Out of 118 teams)
+        - <b>5th place</b>, Team Ilias from Keio University, <b>NHK Robocon</b>, 2020.
+        - <b>1st place</b>, <b>Robocup Junior Chiba Line Trace Robot Challenge</b>, 2013.
 
 - title: Certifications
   type: list
