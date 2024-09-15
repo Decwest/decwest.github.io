@@ -14,7 +14,7 @@ nav_order: 1
 
 ## **International Conference**
 
-- __Fumiya Ohnishi__, Masaki Takahashi, “The Effect of Robot Pose and Distance When Passing a Pedestrian on Pedestrian and Observer Safety”, 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (**RO-MAN**), Pasadena, USA, 2024.
+- __Fumiya Ohnishi__, Masaki Takahashi, “The Effect of Robot Pose and Distance on Pedestrian and Observer Comfort During Passing”, 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (**RO-MAN**), Pasadena, USA, 2024.
 - __Fumiya Ohnishi__, Yosuke Kawasaki, Masaki Takahashi, “Investigation of an Autonomous Mobile Robot’s Avoidance Motion for Pedestrian and Observer Comfort in a Hospital Environment”, 2024 IEEE International Conference on Robotics and Automation (**ICRA**) Workshop on Nursing Robotics, Yokohama, Japan, 2024. [[link](https://zkks.w3.kanazawa-u.ac.jp/ICRA2024/postersession/#:~:text=Investigation%20of%20an%20Autonomous%20Mobile%20Robot%E2%80%99s%20Avoidance%20Motion%20for%20Pedestrian%20and%20Observer%20Comfort%20in%20a%20Hospital%20Environment)]
 - __Fumiya Ohnishi__, Yosuke Kawasaki, Masaki Takahashi, “Rush-out risk mapping from human operational commands considering field context”, 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (**RO-MAN**), Busan, Korea, 2023. [[link](https://ieeexplore.ieee.org/document/10309633/)]
 - __Fumiya Ohnishi__, Yosuke Kawasaki, Masaki Takahashi, “Goal Inference via Corrective Path Demonstration for Human-robot Collaboration”, Proceedings of the 17th International Conference on Intelligent Autonomous Systems (**IAS-17**), pp.13-24, Zagreb, Croatia, 2022. [[link](https://link.springer.com/chapter/10.1007/978-3-031-22216-0_2)]

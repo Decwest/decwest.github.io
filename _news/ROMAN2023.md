@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I presented a lead-authored paper at IEEE RO-MAN 2023!
+title: I presented a lead-authored paper at IEEE RO-MAN 2023! <br/>RO-MAN2023で主著一件の発表を行いました。
 date: 2023-08-30 10:00:00-0400
 inline: false
 related_posts: false

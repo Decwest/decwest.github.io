@@ -18,6 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+*Last Updated: 2024/9/15*
 
 慶應義塾大学大学院 理工学研究科 修士2年の大西史弥です。
 
