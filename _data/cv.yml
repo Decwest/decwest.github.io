@@ -1,97 +1,128 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    # - title: PhD - System design engineering
+    #   institution: Keio University, Japan
+    #   year: 2023 - present
+    #   # description:
+    #   #   - Description 1.
+    #   #   - Description 2.
+    #   #   - title: Description 3.
+    #   #     contents:
+    #   #       - Sub-description 1.
+    #   #       - Sub-description 2.
+  - title: PhD - Engineering
+    institution: "The School of Science for Open and Environmental Systems, Graduate School of Science and Technology, Keio University, Japan. Supervisor: <a href=\"https://www.st.keio.ac.jp/en/tprofile/sd/takahashi.html\" target=\"_blank\">Masaki Takahashi</a>"
+    year: 2024 - now
+    # description:
+    #   - Description 1.
+  - title: MSc - Engineering
+    institution: "The School of Science for Open and Environmental Systems, Graduate School of Science and Technology, Keio University, Japan. Supervisor: <a href=\"https://www.st.keio.ac.jp/en/tprofile/sd/takahashi.html\" target=\"_blank\">Masaki Takahashi</a>"
+    year: 2022 - 2024
+    description:
+      - "Thesis: 施設構造に沿ったレーンに基づく歩行者・観察者にとって安心なロボットナビゲーション (Facility-Structured Lane-Based Robot Safe Navigation for Pedestrian and Observer)"
+  - title: BSc - Engineering
+    institution: "Department of System Design Engineering, Faculty of Science and Technology, Keio University, Japan. Supervisor: <a href=\"https://www.st.keio.ac.jp/en/tprofile/sd/takahashi.html\" target=\"_blank\">Masaki Takahashi</a>"
+    year: 2018 - 2022
+    description:
+      - "Thesis: ユーザの修正経路教示に基づく協働搬送ロボットの目的地推論 (Goal Inference via Corrective Path Demonstrations for Collaborative Delivery Robots)"
+      - "Graduated at the top of the department"
 
-- title: Experience
+- title: Working Experiences
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: 助教（有期・研究奨励）| Assistant Professor (Fixed-term/Research Encouragement)
+      institution: Graduate School of Science and Technology, Keio University, Japan
+      year: 2024.04 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Duties include cooperation with public relations activities, as well as being in charge of supervising on-campus examinations and entrance examinations.
+    - title: Part-time Engineer
+      institution: <a href="https://www.softroid.jp/">SoftRoid.Inc</a>
+      year: 2020.10 - now
       description:
-        - Description 1.
-        - Description 2.
+        - I mainly developed robot navigation system and image processing pipeline.
+    - title: Internship
+      institution: <a href="https://www.honda.co.jp/robotics/">HONDA R&D Robotics</a>
+      year: 2022.09
+    - title: Internship
+      institution: <a href="https://www.sony.com/ja/SonyInfo/research/technologies/mobile-manipulator/">Sony R&D Center Robotics</a>
+      year: 2023.02 - 2023.03
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experiences
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://decwest.github.io/introduction-to-ros/">Introduction to ROS</a>
+      institution: <a href="https://aic.keio.ac.jp/">Keio University AI Consortium</a>.
+      year: 2021.09 - 2022.03
+      description: I taught the basics of ROS, Rviz and Gazebo.
+    - title: <a href="https://github.com/Toshiki-Keio/introduction-to-deep-learning">Introduction to Deep Learning</a>
+      institution: <a href="https://aic.keio.ac.jp/">Keio University AI Consortium</a>.
+      year: 2022.04 - 2023.03
+      description: I especially taught deep neural networks for time series data.
+    - title: Computer Programming Exercise (Python)
+      institution: Keio University
+      year: 2022.09 - 2024.03
+      description: Teaching Assistant
 
-- title: Honors and Awards
+- title: Project Experiences
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Humonii
+      year: 2023.04 - 2024.09
+      items: 
+        - I developed a shared control algorithm of semi-autonomous electric wheelchair “Feeling”.
+        - <a href="https://www.humonii.com/">Homepage</a>. <a href="https://youtu.be/-udQ3dNQ-l8?si=hS4k8vHkAoBS7gFL">Youtube</a>
+    - title: BMI BrainPic
+      year: 2022.11
+      items: 
+        - I developed a navigation and safety system of semi-autonomous electric wheelchair.
+        - <a href="https://www.brain.bio.keio.ac.jp/2022/12/05/bmi-brainpic/">Website</a>
+    - title: NHK Robocon
+      year: 2019.10 - 2021.08
+      items: 
+        - <u>As a leader of software team</u>, I designed and developed a hole software architecture with teammates, including navigation and task execution modules of mobile robot. In addition, I developed a robot simulator by Gazebo since we could not test it's software by real robot due to COVID-19 lockdown.
+        - <a href="https://github.com/KeioRoboticsAssociation/nhk2021_ilias">Code(2021)</a>, <a href="https://keiorogiken.wordpress.com/2020/09/27/nhk%e5%ad%a6%e7%94%9f%e3%83%ad%e3%83%9c%e3%82%b3%e3%83%b32020%e3%81%a7%e6%8a%95%e7%a5%a85%e4%bd%8d%e3%82%92%e9%a0%82%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/">Report(2020)</a>
+    - title: AWS Robot Delivery Challenge
+      year: 2020.03 - 2020.09
+      items: 
+        - <u>As a team leader</u>, I developed a mobile robot navigation system with teammates.
+        - <a href="https://robotstart.info/2020/09/11/aws-robot-delivery-challenge-0915.html">Interview</a>, <a href="https://keiorogiken.wordpress.com/2020/09/15/aws-robot-delivery-challenge%E6%9C%AC%E6%88%A6%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%80%81%E6%B1%BA%E5%8B%9D%E3%81%AB%E9%80%B2%E5%87%BA%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81/">Report</a>, <a href="https://youtu.be/wjuNznYEFNg?si=5bOcCQYdzhTnrij8&t=1112">Youtube(Semi-final)</a>, <a href="https://youtu.be/Tvhe4P3MiTU?si=U5tzymnj8sWJQFRj&t=1174">Youtube(Final. localization🤯)</a>
 
-- title: Academic Interests
+- title: Main Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Software
+      items: 
+        - <b>C/C++</b>, <b>Python</b>, Javascript, <b>ROS</b>, Gazebo, Docker, AWS, WSL2, etc...
+    - title: Hardware
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Mbed, Arduino, Jetson, 3D CAD, Soldering, etc...
 
-- title: Other Interests
+- title: Awards
+  type: nested_list
+  contents:
+    - title: Awards
+      items: 
+        - <b>ポスター賞 | Excellent Poster Award</b>, Keio University AI Consortium（慶應義塾大学AI・高度プログラミングコンソーシアム）, Mar. 2023.
+        - <b>優秀学生賞 | Excellent Student Award</b>, The Robotics Society of Japan, Feb. 2022.
+        - <b>慶応工学会賞 | Keio Engineering Foundation Award</b>, Keio Engineering Foundation, Mar. 2022. (the best honors student in the department)
+        - <b>畠山賞 | Hatakeyama Award</b>, The Japan Society of Mechanical Engineers, Mar. 2022.
+        - <b>卒業研究優秀発表賞 | Excellent Bachelor's Thesis Presentation Award</b>, Department of System Design Engineering, Keio University, Mar. 2022.
+        - <b>教育貢献賞 | Education Contribution Award</b>, Keio University AI Consortium（慶應義塾大学AI・高度プログラミングコンソーシアム）, Mar. 2022.
+    - title: Scholarships
+      items:
+        - <b>博士課程学生研究支援プログラム（潮田記念基金）</b>, Apr. 2024
+        - <b>研究のすゝめ奨学金</b>, Apr. 2024
+        - <b>111年三田会記念大学奨学基金</b>, Sep 2021 (Five of the students from all faculties of Keio University were accepted.)
+    - title: Robot competitions
+      items:
+        - <b>2nd place</b> in semi-final and <b>4th place</b> in final, <b>AWS Robot Delivery Challenge</b>, 2021 (Out of 118 teams)
+        - <b>5th place</b>, Team Ilias from Keio University, <b>NHK Robocon</b>, 2020.
+        - <b>1st place</b>, <b>Robocup Junior Chiba Line Trace Robot Challenge</b>, 2013.
+
+- title: Certifications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - EIKEN Grade 1（英検一級）[Aug 2020]
+    - TOEIC 930 [Oct 2020]
+    - Driver's license in Japan（普通運転免許）[Sep 2018]
