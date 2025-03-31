@@ -17,14 +17,21 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+*Last Updated: 2025/3/31*
 
-*Last Updated: 2024/9/15*
+I am Fumiya Ohnishi, a second-year PhD student at the Graduate School of Science and Technology, Keio University.
 
-I am Fumiya Ohnishi, a first-year PhD student and Assistant Professor (Fixed-term, Research Encourgement) at the Graduate School of Science and Technology, Keio University.
+I am researching technologies for generating safe and comfortable movement of autonomous mobile robots in environments where humans coexist, such as hospitals.
 
-I am researching technologies for generating safe movement of autonomous mobile robots in environments where humans coexist, such as hospitals.
+Keywords: social robot navigation, human-robot interaction, comfort, mobile robot
 
-Keywords: robot navigation, human-robot interaction, perceived safety
+<br/>
+
+<div>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/-hURH_mYYmw"></iframe>
+</div>
+
+**My research introduction video!! (Japanese)**
 
 <a href="ja" class="fancy-button">日本語のページ</a>
 
