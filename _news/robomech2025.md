@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I presented a lead-authored paper at ROBOMECH 2025! <br/>ROBOMECH 2025で主著一件のポスター発表をしました！
+title: I presented a lead-authored paper at ROBOMECH 2025 <br/>ROBOMECH 2025で主著一件のポスター発表をしました
 date: 2025-06-06 16:00:00-0400
 inline: false
 related_posts: false
@@ -12,9 +12,9 @@ related_posts: false
 
 本研究で提案するDWPPは、ROS2の自律移動フレームワークNav2に標準実装されているRegulated Pure Pursuitを含む従来手法と比較し、速度および加速度制約を遵守しつつ、追従誤差の低減も確認されました。
 
-<img src='../../assets/img/news/robomech2025.gif'>
+<img src='../../assets/img/news/robomech2025.gif' width="800">
 
-<img src='../../assets/img/news/robomech2025_beef.jpg' width="400">
+米沢牛と日本酒があれば人は幸せになれるようです．これに温泉があれば完全優勝です．
 
-
+<img src='../../assets/img/news/robomech2025_beef.jpg' width="800">
 
