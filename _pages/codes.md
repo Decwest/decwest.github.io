@@ -7,6 +7,20 @@ nav: true
 nav_order: 3
 ---
 
+
+## [nav2_dynamic_window_pure_pursuit_controller](https://github.com/Decwest/nav2_dynamic_window_pure_pursuit_controller)
+
+Nav2 plugin for Dynamic Window Pure Pursuit (DWPP) controller.
+
+DWPP is a novel extension of the Pure Pursuit method that computes command velocities while considering the robot’s velocity and acceleration constraints. I first proposed this method at IAS-19 ([news](https://decwest.github.io/news/italy2025/)).
+
+I also presented this work at ROSCon JP 2025 (in Japanese).
+
+本取り組みをROSConJP 2025にて発表しました．[スライド (docswell)](https://www.docswell.com/s/Decwest/ZDWVW4-2025-09-16-200946)，[動画 (YouTube)](https://www.youtube.com/live/y1FqHlsJU4k?si=_CG0E1qdM0iK5PQh&t=11313)
+
+
+<img src='../assets/img/codes/dwpp.gif' width="400" >
+
 ## [navgoal_webgui](https://github.com/Decwest/navgoal_webgui)
 
 A WebGUI for publishing 2D Nav Goal (geometry_msgs::PoseStamped). 
