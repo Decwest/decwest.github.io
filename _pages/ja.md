@@ -27,9 +27,17 @@ social: true # includes social icons at the bottom of the page
 
 <br/>
 
-<div>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/-hURH_mYYmw"></iframe>
+
+<div class="video">
+  <iframe
+    src="https://www.youtube.com/embed/-hURH_mYYmw"
+    title="My research introduction video (Japanese)"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
 </div>
+
 
 研究紹介動画です！ぜひご覧ください！
 

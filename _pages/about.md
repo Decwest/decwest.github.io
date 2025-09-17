@@ -27,8 +27,14 @@ Keywords: social robot navigation, human comfort, mobile robot, robot vision
 
 <br/>
 
-<div>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/-hURH_mYYmw"></iframe>
+<div class="video">
+  <iframe
+    src="https://www.youtube.com/embed/-hURH_mYYmw"
+    title="My research introduction video (Japanese)"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
 </div>
 
 **My research introduction video!! (Japanese)**
