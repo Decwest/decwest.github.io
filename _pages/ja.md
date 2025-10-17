@@ -28,7 +28,31 @@ social: true # includes social icons at the bottom of the page
 <br/>
 
 
-<div class="video">
+<style>
+  .video-container {
+    position: relative;
+    padding-top: 56.25%; /* 16:9 アスペクト比 */
+    overflow: hidden;
+    border-radius: 12px;
+  }
+
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+
+  .video-caption {
+    font-weight: bold;
+    margin: 0.8em 0 1.5em;
+  }
+</style>
+
+<!-- YouTube 動画 -->
+<div class="video-container">
   <iframe
     src="https://www.youtube.com/embed/-hURH_mYYmw"
     title="My research introduction video (Japanese)"
@@ -37,9 +61,25 @@ social: true # includes social icons at the bottom of the page
     allowfullscreen>
   </iframe>
 </div>
+<p class="video-caption">研究紹介動画（中高生向け）</p>
 
+<!-- Vimeo 動画 -->
+<div class="video-container">
+  <iframe
+    src="https://player.vimeo.com/video/1122708915?badge=0&autopause=0&player_id=0&app_id=58479"
+    title="DWPP: Dynamic Windowを用いた速度・加速度制約を考慮したPure Pursuitの提案とNav2プラグインの実装公開 - 大西 史弥、髙橋 正樹 (慶應義塾大学)"
+    loading="lazy"
+    allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+<p class="video-caption">
+  Dynamic Window Pure PursuitのNav2プラグイン紹介@ROSConJP 2025
+</p>
 
-研究紹介動画です！ぜひご覧ください！
+<script src="https://player.vimeo.com/api/player.js"></script>
+
 
 <a href="/" class="fancy-button">English Page</a>
 

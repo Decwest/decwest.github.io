@@ -16,7 +16,7 @@ DWPP is a novel extension of the Pure Pursuit method that computes command veloc
 
 I also presented this work at ROSCon JP 2025 (in Japanese).
 
-本取り組みをROSConJP 2025にて発表しました．[スライド (docswell)](https://www.docswell.com/s/Decwest/ZDWVW4-2025-09-16-200946)，[動画 (YouTube)](https://www.youtube.com/live/y1FqHlsJU4k?si=_CG0E1qdM0iK5PQh&t=11313)
+本取り組みをROSConJP 2025にて発表しました．[スライド (docswell)](https://www.docswell.com/s/Decwest/ZDWVW4-2025-09-16-200946)，[動画 (Vimeo)](https://vimeo.com/1122708915?share=copy)
 
 
 <img src='../assets/img/codes/dwpp.gif' width="400" >

@@ -13,7 +13,7 @@ ROSConJP 2025にて，“DWPP: Dynamic Windowを用いた速度・加速度制�
 
 スライド：[https://www.docswell.com/s/Decwest/ZDWVW4-2025-09-16-200946](https://www.docswell.com/s/Decwest/ZDWVW4-2025-09-16-200946)
 
-動画：[https://www.youtube.com/live/y1FqHlsJU4k?si=_CG0E1qdM0iK5PQh&t=11313](https://www.youtube.com/live/y1FqHlsJU4k?si=_CG0E1qdM0iK5PQh&t=11313)
+動画：[https://vimeo.com/1122708915?share=copy](https://vimeo.com/1122708915?share=copy)
 
 関連Xポスト
 
@@ -26,5 +26,5 @@ ROSConJP 2025にて，“DWPP: Dynamic Windowを用いた速度・加速度制�
 私の夢は，全世界のロボットにしれっと私の書いたコードが入っているということです．これが，ロボットのソフトウェアエンジニアである私が世界中のロボットおよびロボットエンジニアに貢献できる方法だと思っています．<br>
 そのため，ROSに貢献し，特に自分の好きなロボットナビゲーション分野のソフトウェアで貢献できるということは，夢叶いまくりです．<br>
 今回こうして自分の提案した移動アルゴリズムをROSの自律移動フレームワークのフォーマットで実装し公開できたこと，そしてそれをROSConJPで発表できたことは夢の実現に向けた大きな一歩であり，大変幸せでした．<br>
-できたら，DWPPがNav2のデフォルトPure Pursuit手法として採用されないかな...なーんてね．<br>
+できたら，DWPPがNav2のデフォルトPure Pursuit手法として採用されないかな...なーんてね．（追伸：叶いそう [https://github.com/ros-navigation/navigation2/pull/5591](https://github.com/ros-navigation/navigation2/pull/5591)）<br>
 あと，丁度今回からROS Japan Developer会議が始まったので，これも大チャンスですね．そんなことを思いながら活動を続けていきます
